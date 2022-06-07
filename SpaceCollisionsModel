@@ -1,3 +1,6 @@
+; Use background.jpg file inside of the repository to be able to run this model.
+; AthenaSenior
+
 globals [
   supernovas
   spreaded-supernova
