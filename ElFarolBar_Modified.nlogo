@@ -1,4 +1,4 @@
-; Egemen ÖNER - SE 3360 AGENT BASED SIMULATION - ASSIGNMENT 2
+;AthenaSenior
 
 
 globals [
