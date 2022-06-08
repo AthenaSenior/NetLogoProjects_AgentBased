@@ -1,4 +1,4 @@
-; Egemen ÖNER - 18070006024 - Midterm Project - SE 3360 Agent Based Simulation
+;AthenaSenior
 ; The Business Investor Model Source Code
 
 ; I examined the results as slow mode (Like 30%) Normal mode is very fast so it's hard to observe.
